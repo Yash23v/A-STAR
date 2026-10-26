@@ -222,8 +222,14 @@ aStarAlgo(start_node, goal_node)
 
 <h2>Output</h2>
 
+Output 1:
+
 <img width="565" height="547" alt="Screenshot 2026-10-26 142450" src="https://github.com/user-attachments/assets/0d278a75-e2bd-4e8f-867a-8ccfe10353f7" />
+
+Output 2:
+
 <img width="347" height="306" alt="image" src="https://github.com/user-attachments/assets/8aee6c75-fac7-42ec-9a15-360f77651c50" />
 
-<hr>
-Path found: ['A', 'E', 'D', 'G']
+# RESULT
+
+The Python program to Implement A * Search algorithm for a Graph has been executed successfully.
